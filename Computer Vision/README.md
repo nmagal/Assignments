@@ -25,3 +25,12 @@ In this assignment I reconstructed the 3D scene of an object given two images se
 - Using the constraints from the epipolar line, found correspondences.
 - From the correspondences, triangulated the object and created a 3D representation of the image.
 - For more information, please read the handout located in the project directory.
+
+## Neural Networks for Recognition
+In this assignment, a neural network was created (using numpy and not pytorch/tensorflow) and trained to classify extracted text. Furthermore, an autoencoder was created.  The steps were as follows:
+- Create a nn script, comprised of forward and backward pass functions.
+- Train nn on training data.
+- Extract text from images of handwritten text and keep extracted text in order by using clustering.
+- Perform inference. 
+- Create autoencoder and measure PSNR as an evaluation metric of performance. 
+- For more information, please read the handout located in the project directory.
