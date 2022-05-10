@@ -36,8 +36,8 @@ In this assignment, a neural network was created (using numpy) and trained to cl
 - For more information, please read the handout located in the project directory.
 
 ## Photometric Stereo 
-In this assignment, both calibrated and uncalibrated photometric stereo was used to determine the shape of an object given different lighting directions. In order to accomplish this, the following steps were used:
+In this assignment, both calibrated and uncalibrated photometric stereo were used to determine the shape of an object given different lighting directions. In order to accomplish this, the following steps were used:
 - Estimated the pseudonormals using closed form solution.
 - From the pseudonormals, calculated the normals and albedo of the image.
-- Used the Frankot-Chellappa alogirthm to integrate over the gradients of the image captured from the normals. 
+- Used the Frankot-Chellappa alogirthm to integrate over the gradients of the image derived from the normals. 
 - For more information, please read the handout located in the project directory.
