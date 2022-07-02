@@ -3,3 +3,6 @@ Please find below coding assignment descriptions for Introduction to Machine Lea
 
 ## Classification Descision Tree 
 In this assignment, a binary classification decision tree was created. In order to accomplish this, a tree was recursively created that chose the attribute to split on by finding the attribute with the highest mutual information. 
+
+## Neural Network
+In this assigment, a classification neural network was created. Forward and backward pass are both implemented, and weights are updated using SGD. 
