@@ -6,3 +6,6 @@ In this assignment, a binary classification decision tree was created. In order 
 
 ## Neural Network
 In this assigment, a classification neural network was created. Forward and backward pass are both implemented, and weights are updated using SGD. 
+
+## Q-learning with linear function approximation 
+In this assignment, q-learning with linear function approximation is used to solve the mountain car problem. The goal is to obtain the optimal polices and action values to allow the car to make it up hill only using gravity and momentum. 
