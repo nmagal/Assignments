@@ -1,5 +1,5 @@
 # Assignments of courses from Music and Technology CMU Masters Program 
-This is a repository of some of the coding assignments I did for my Masters in Music and Technology at CMU.
+This is a repository of some of the coding assignments I did for my Master's in Music and Technology at CMU.
 The following courses are included:
 
 | Course | Date |
