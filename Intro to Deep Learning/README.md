@@ -5,9 +5,9 @@ Below contains coding assignment descriptions for Intro to Deep Learning. The co
 ## Pytorch Implementations 
 
 ### Neural Network
-In this assignment, a vanilla neural network is created for frame level classification of speech. Data is given in the form of raw mel spectrogram frames, and our predictions are frame level phoneme labels.
+Kaggle Challenge: [Frame level classification of speech](https://www.kaggle.com/competitions/11-785-s20-hw1p2/overview). In this assignment, a neural network is created for frame level classification of speech. Data is given in the form of raw mel spectrogram frames, and our predictions are phoneme state labels.
 
 
 ## Numpy Implementations 
 ### Neural Network
-In this assignment, a vanilla neural network is created.  In order to speed up convergence, batchnorm and momentum are implemented.
+In this assignment, a neural network is created. Linear layers, activation functions, backprop, batchnorm, and momentum are implemented.
