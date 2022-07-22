@@ -6,3 +6,8 @@ Below contains coding assignment descriptions for Intro to Deep Learning. The co
 
 ### Neural Network
 In this assignment, a vanilla neural network is created for frame level classification of speech. Data is given in the form of raw mel spectrogram frames, and our predictions are frame level phoneme labels.
+
+
+## Numpy Implementations 
+### Neural Network
+In this assignment, a vanilla neural network is created.  In order to speed up convergence, batchnorm and momentum are implemented.
