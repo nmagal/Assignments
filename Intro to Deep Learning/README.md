@@ -1,6 +1,6 @@
 # Introduction to Deep Learning 
 
-Below contains coding assignment descriptions for Intro to Deep Learning. The coding assignments can be divided into two components, numpy implementations of deep learning architectures and pytorch implementations of deep learning architectures.
+Below contains coding assignment descriptions for Intro to Deep Learning. The coding assignments can be divided into two components, numpy implementations of a deep learning architectures and pytorch implementations of deep learning architectures.
 
 ## Pytorch Implementations 
 
@@ -9,5 +9,9 @@ Kaggle Challenge: [Frame level classification of speech](https://www.kaggle.com/
 
 
 ## Numpy Implementations 
+
 ### Neural Network
 In this assignment, a neural network is created. Linear layers, activation functions, backprop, batchnorm, and momentum are implemented.
+
+### Convolutional Neural Network
+In this assignment, a convolutional nueral network is created. This builds upon the previous assignment, and 1D and 2D convolutional layers are implemented.
